@@ -8,11 +8,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array.push("plant")
+  array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  arry.unshift("car")
+  array.unshift("car")
   
 end
 
